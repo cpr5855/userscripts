@@ -3,6 +3,7 @@
 // @description    Update Title and Article Title to be more helpful.
 // @match        https://portal.nutanix.com/page/documents/kbs*
 // @version      1.2
+// @updateURL https://github.com/cpr5855/userscripts/raw/main/Portal_Knowledgebase_Title_Updater.user.js
 // @downloadURL https://github.com/cpr5855/userscripts/raw/main/Portal_Knowledgebase_Title_Updater.user.js
 // ==/UserScript==
 
