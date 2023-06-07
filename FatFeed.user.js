@@ -2,7 +2,8 @@
 // @name         FatFeed
 // @description  Makes Feed Width larger
 // @match      *nutanix.my.salesforce.com*
-// @version      1.0
+// @version      1.2
+// @downloadURL https://github.com/cpr5855/userscripts/raw/main/FatFeed.user.js
 // ==/UserScript==
 
 /*
