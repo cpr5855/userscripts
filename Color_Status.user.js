@@ -3,6 +3,7 @@
 // @description  Adds color to the status column of SFDC case list
 // @match      https://nutanix.my.salesforce.com/*
 // @version      1.2
+// @updateURL https://github.com/cpr5855/userscripts/raw/main/Color_Status.user.js
 // @downloadURL https://github.com/cpr5855/userscripts/raw/main/Color_Status.user.js
 // ==/UserScript==
 
