@@ -2,7 +2,8 @@
 // @name           Portal Knowledgebase Title Updater
 // @description    Update Title and Article Title to be more helpful.
 // @match        https://portal.nutanix.com/page/documents/kbs*
-// @version      0.1
+// @version      1.2
+// @downloadURL https://github.com/cpr5855/userscripts/raw/main/Portal_Knowledgebase_Title_Updater.user.js
 // ==/UserScript==
 
 
