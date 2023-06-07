@@ -2,7 +2,8 @@
 // @name           SFDC Knowledgebase Title Updater
 // @description    Update Title and Article Title to be more helpful.
 // @match        https://nutanix.my.salesforce.com/articles/Knowledge_Base/*
-// @version      0.1
+// @version      1.2
+// @downloadURL https://github.com/cpr5855/userscripts/raw/main/SFDC_Knowledgebase_Title_Updater.user.js
 // ==/UserScript==
 
 /*
