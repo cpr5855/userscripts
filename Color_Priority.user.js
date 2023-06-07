@@ -2,7 +2,8 @@
 // @name         Color Priority
 // @description  Adds color to priority column in SFDC case list
 // @match      https://nutanix.my.salesforce.com/*
-// @version      1.1
+// @version      1.2
+// @downloadURL https://github.com/cpr5855/userscripts/raw/main/Color_Priority.user.js
 // ==/UserScript==
 
 /*
